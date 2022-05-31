@@ -18,7 +18,7 @@
 🍎 Eating healthy is the most I'm doing for my physical self at the moment                                                   
 ⌛ My scariest dream is wasting my life without a motive                                                                     
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=HiteshSharma)
+![Github stats](https://github-readme-stats.vercel.app/api?username=HiteshSharma-github)
 
 
 ### Email — hiteshsharmahs0987@gmail.com
