@@ -3,6 +3,7 @@
 
 # Hi there, I'm *Hitesh Sharma* 👋
 
+##  Machine Learning enthusiast | Front-end Web Developer | Djangonist 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshSharma-github)](https://github.com/HiteshSharma-github/github-readme-stats)
