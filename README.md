@@ -1,11 +1,10 @@
 
 
 
-```diff
-- # Hi there, I'm *Hitesh Sharma* 👋
+Hi there, I'm *Hitesh Sharma* 👋
 
-```
-<br>
+
+
 ![avatar](https://user-images.githubusercontent.com/85629794/171078603-d5ceddf8-d5df-43f9-b38f-56bfce8c2ab4.jpg)<br>
 
 
@@ -20,9 +19,8 @@
 👂 Always interested in listening and discussing about new ideas                                      
 🍎 Eating healthy is the most I'm doing for my physical self at the moment                                                   
 ⌛ My scariest dream is wasting my life without a motive                                                                     
-<br>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HiteshSharma)
 
-<br>
 
 ###Email — hiteshsharmahs0987@gmail.com
