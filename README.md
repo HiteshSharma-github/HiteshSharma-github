@@ -1,7 +1,7 @@
 
 
 
-Hi there, I'm *Hitesh Sharma* 👋
+# Hi there, I'm *Hitesh Sharma* 👋
 
 
 
@@ -23,4 +23,4 @@ Hi there, I'm *Hitesh Sharma* 👋
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HiteshSharma)
 
 
-###Email — hiteshsharmahs0987@gmail.com
+### Email — hiteshsharmahs0987@gmail.com
