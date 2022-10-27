@@ -3,7 +3,7 @@
 
 # Hi there, I'm *Hitesh Sharma* 👋
 
-##  Pythonist| Front-end Web Developer | Djangonist | React.js
+##  Pythonist | Front-end Web Developer | Djangonist | React.js
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshSharma-github)](https://github.com/HiteshSharma-github/github-readme-stats)
