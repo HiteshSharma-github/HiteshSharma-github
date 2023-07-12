@@ -3,8 +3,7 @@
 
 # Hi there, I'm *Hitesh Sharma* 👋
 
-##  Pythonist | MERN Developer | Djangonist | React Developer
-
+## React.js Developer | MERN Developer | Java Developer | Deep Learning Enthusiast
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshSharma-github)](https://github.com/HiteshSharma-github/github-readme-stats)
 
