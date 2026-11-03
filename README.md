@@ -5,7 +5,6 @@
 
 ## Consulting | Data Analyst| React.js Developer | MERN Developer | Java Developer | Deep Learning Enthusiast
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshSharma-github)](https://github.com/HiteshSharma-github/github-readme-stats)
 
 🎯 Wish to be a part of a revolutionary technology in its making                                                                                
 🔭 Working on my skills in Machine Learning, MERN Development  and Problem Solving                                                              
