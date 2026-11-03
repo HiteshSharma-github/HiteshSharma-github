@@ -65,7 +65,6 @@
   </a>
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=HiteshSharma-github)
 
 
 ### Website DevFolio - https://hiteshsharma.netlify.app/
